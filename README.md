@@ -2,7 +2,7 @@
 
 En este proyecto, me adentraré en la creación de una versión moderna del juego de memoria Simón. Este juego electrónico, que tuvo su auge en los años 80, sigue siendo una herramienta divertida y desafiante para ejercitar la memoria y la concentración.
 
-El juego Simón se basa en una estructura sencilla: cuatro botones de colores (rojo, azul, amarillo y verde). Al encender el juego, Simón comienza iluminando uno de los botones al azar. **Debo repetir esta secuencia presionando el botón correcto.** A medida que avanzo, el juego añade un nuevo color a la secuencia, aumentando la dificultad con cada ronda.
+El juego Simón se basa en una estructura sencilla: cuatro botones de colores (rojo, azul, amarillo y verde). Al encender el juego, Simón comienza iluminando uno de los botones al azar.  A medida que avanza, el juego añade un nuevo color a la secuencia, aumentando la dificultad con cada ronda.
 
 El objetivo principal del juego es recordar y reproducir secuencias cada vez más largas y complejas de colores. Esta mecánica simple ayuda a mejorar habilidades cognitivas esenciales.
 
