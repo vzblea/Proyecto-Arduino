@@ -27,6 +27,7 @@ Para llevar a cabo el proyecto, seguí los siguientes pasos:
    - 4 Botones
    - Software Proteus 8 Professional para la simulación
    - Arduino IDE para la programación
+     
      ![image](https://github.com/vzblea/Proyecto-Arduino/assets/170975757/65f61658-4c96-4351-af6c-1a27817cc36a)
 
 
